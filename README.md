@@ -1,6 +1,6 @@
 # Hi there 👋, This is Gyubin Kim ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkei773%2Fhit-counter&count_bg=%236AD31A&title_bg=%2300A9FF&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)  
 
-[![kei773's github stats](https://github-readme-stats.vercel.app/api?username=kei773&count_private=true&show_icons=true&theme=buefy)](https://github.com/kei773)
+[![kei773's github stats](https://github-readme-stats.vercel.app/api?username=kei773&count_private=true&show_icons=true)](https://github.com/kei773)
 
 ## About me 😛
 An enthusiast with passion to solve problems and to create something.  
