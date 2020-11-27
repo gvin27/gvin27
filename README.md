@@ -6,7 +6,7 @@
 An enthusiast with passion to solve problems and to create something.  
 
 
-- 🔥 I am interested in Algorithms, AI
+- 😋 I am interested in Algorithms, AI
 - ✍️ I am currently learning Object-Oriented Programming
 - 🌱 I am currently looking to ...
 - 📫 Reach me: [mail](mailto:gb.kim@postech.ac.kr) (Korean, English, Japanese OK) 
