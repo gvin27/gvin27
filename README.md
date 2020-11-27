@@ -11,7 +11,7 @@
 - 📫 Reach me: [mail](mailto:gb.kim@postech.ac.kr)  
   
 **Skills:** C/C++, Python  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kei773&layout=compact&theme=vue)](https://github.com/kei773/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kei773&layout=compact&theme=vue)
 
 
 Competitive Programming Profiles
