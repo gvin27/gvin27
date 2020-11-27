@@ -3,12 +3,13 @@
 [![kei773's github stats](https://github-readme-stats.vercel.app/api?username=kei773&count_private=true&show_icons=true&theme=buefy)](https://github.com/kei773)
 
 ## About me 🤓
-.  
+An enthusiast with passion to solve problems and to create something.  
 
 
+- 😛 I am interested in Algorithms, AI
 - ✍️ I am currently learning Object-Oriented Programming
 - 🌱 I am currently looking to ...
-- 📫 Reach me: [mail](mailto:gb.kim@postech.ac.kr)  
+- 📫 Reach me: [mail](mailto:gb.kim@postech.ac.kr) (Korean, English, Japanese OK) 
   
 **Skills:** C/C++, Python  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kei773&layout=compact&theme=vue)](https://github.com/kei773)
