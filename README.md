@@ -8,7 +8,7 @@
 
 - ✍️ I am currently learning Object-Oriented Programming
 - 🌱 I am currently looking to ...
-- 📫 Reach me: <a href = mailto:gb.kim@postech.ac.kr><img src=https://github.com/kei773/kei773.github.io/blob/master/_includes/svg/icon/social/mail.svg height='20' weight='20'>  
+- 📫 Reach me: [mail](mailto:gb.kim@postech.ac.kr)  
   
 **Skills:** C/C++, Python  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kei773&layout=compact&theme=vue)](https://github.com/kei773/github-readme-stats)
