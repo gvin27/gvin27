@@ -2,7 +2,7 @@
 
 [![kei773's github stats](https://github-readme-stats.vercel.app/api?username=kei773&count_private=true&show_icons=true)](https://github.com/kei773)
 
-## About me 😛
+## About me
 An enthusiast with passion to solve problems and to create something.  
 
 
