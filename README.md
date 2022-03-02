@@ -15,11 +15,11 @@ An enthusiast with passion to solve problems and to create something.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincent773&layout=compact&theme=vue)](https://github.com/vincent773)
 
 
-Competitive Programming Profiles
+<!--Competitive Programming Profiles
 ---
 [![CP Badge](https://cp-logo.vercel.app/atcoder/kei773)](https://atcoder.jp/users/kei773) 
 [![Solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=4hn6)](https://solved.ac/4hn6)  
-[![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=4hn6)](https://solved.ac/4hn6)  
+[![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=4hn6)](https://solved.ac/4hn6)  -->
 
 <!--
 **kei773/kei773** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
