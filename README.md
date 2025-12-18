@@ -1,6 +1,6 @@
 # Hi there, I'm Gyuvin Kim 👋
 
-I'm a software engineer currently based in Montreal. I thrive on building cool things with code, from **building efficient design tools for digital marketing** to exploring the intricate connections between brain morphology and genetics.
+I'm a software engineer currently based in Montreal. I thrive on building cool things with code, from **building efficient design tools for digital marketing** to exploring the intricate connections between brain morphology and genetics.  
 When I'm not coding, I'm probably in a movie theater or planning my next adventure. So far, I've backpacked through **33 countries and 99 cities**.
 
 ---
