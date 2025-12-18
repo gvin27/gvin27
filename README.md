@@ -1,29 +1,30 @@
 # Hi there, I'm Gyuvin Kim 👋
 
-I'm a software engineer and researcher currently based in Montreal. I thrive on building cool things with code, from enhancing gameplay for millions to exploring the intricate connections between brain morphology and genetics.
-
+I'm a software engineer currently based in Montreal. I thrive on building cool things with code, from **building efficient design tools for digital marketing** to exploring the intricate connections between brain morphology and genetics.
 When I'm not coding, I'm probably in a movie theater or planning my next adventure. So far, I've backpacked through **33 countries and 99 cities**.
 
 ---
 
 ### 🚀 What I'm Currently Working On
 
-* Right now, I'm a **Research Intern at Polytechnique Montréal**.
-* I'm performing computational shape analysis on 3D neuroimaging data to investigate the relationship between brain morphology and genetics.
+* Right now, I'm currently working as a **Software Engineer at Hubble**.
+* I recently joined the team, ready to build cool things.
 
 ### 💻 My Tech Stack
 
 I'm comfortable working across the stack, but my main tools are:
 
-* **Front-End:** React, TypeScript, MUI (Material-UI)
-* **AI:** Python, PyTorch
+* **Front-End:** React, TypeScript, Next.js, MUI (Material-UI)
+* **Data Analysis:** Python, PyTorch
 * **Competitive Programming:** C++, You can find me on [solved.ac/BOJ](https://solved.ac/en/profile/4hn6) (top 0.59%) and [Codeforces](https://codeforces.com/profile/westfield).
 
 ### ⏪ A Look Back
 
-* I was previously a **Software Engineer at NGINE STUDIOS, NEXON** in Seoul.
-* I engineered the front-end for **ADCreator**, an in-house design tool that enabled users to create high-quality, multi-size ad banners with a few clicks.
-* I also designed and implemented a novel sentence distortion algorithm for the online game **MapleStory's** anti-botting system to enhance fair play.
+* **Research Intern at Polytechnique Montréal:** Engineered a robust alignment solution for 3D brain morphology analysis to fix critical pipeline failures and generate a "BrainTree".
+* **Software Engineer at NGINE STUDIOS, NEXON:**
+    * Engineered the front-end for **ADCreator**, an in-house design tool that enabled users to create high-quality, multi-size ad banners, significantly accelerating the marketing creative workflow.
+    * Designed and implemented a novel sentence distortion algorithm for **MapleStory's** anti-botting system to enhance fair play for millions of users.
+    * Contributed to the **Nexon Youth Programming Challenge (NYPC)** by testing algorithmic problems and defining platform requirements.
 
 ### 📫 Let's Connect
 
