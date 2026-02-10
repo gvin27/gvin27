@@ -1,6 +1,6 @@
 # Hi there, I'm Gyuvin Kim 👋
 
-I'm a software engineer currently based in Montreal. I thrive on building cool things with code, from **building efficient design tools for digital marketing** to exploring the intricate connections between brain morphology and genetics.  
+I'm a software engineer currently based in Montreal. My journey has taken me from building efficient design tools for digital marketing to exploring the connection between brain morphology and genetics. Currently, I'm channeling that experience into building a powerful UX research tool at Hubble.  
 When I'm not coding, I'm probably in a movie theater or planning my next adventure. So far, I've backpacked through **33 countries and 99 cities**.
 
 ---
@@ -8,7 +8,7 @@ When I'm not coding, I'm probably in a movie theater or planning my next adventu
 ### 🚀 What I'm Currently Working On
 
 * Right now, I'm currently working as a **Software Engineer at Hubble**.
-* I recently joined the team, ready to build cool things.
+* Developing features for our **UX research platform** to help teams understand their users better.
 
 ### 💻 My Tech Stack
 
