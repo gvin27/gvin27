@@ -8,7 +8,7 @@ When I'm not coding, I'm probably in a movie theater or planning my next adventu
 ### 🚀 What I'm Currently Working On
 
 * Right now, I'm currently working as a **Software Engineer at Hubble**.
-* Developing features for our **UX research platform** to help teams understand their users better.
+* Developing features for our **[UX research platform](https://app.hubble.team/)** to help teams understand their users better.
 
 ### 💻 My Tech Stack
 
